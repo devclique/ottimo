@@ -342,7 +342,7 @@
 .info-content-box {
   display: flex;
   width: 100%;
-  background-color: #e4a41b;
+  /* background-color: #e4a41b; */
   align-items: center;
   margin: 100px 0px;
   position: relative;
